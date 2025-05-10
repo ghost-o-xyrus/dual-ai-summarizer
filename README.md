@@ -1,6 +1,7 @@
 # dual-ai-summarizer
 Transform any text into multiple summary formats using state-of-the-art AI models. Choose between OpenAI's GPT or Hugging Face's BART for different summarization styles. Includes concise, detailed, key points, and technical summaries. Easy to use, highly configurable, and perfect for content analysis.
-<<<<<<< HEAD
+
+
 # AI Text Summarizer
 
 A powerful text summarization tool that supports both OpenAI's GPT models and Hugging Face's BART model for generating multiple types of summaries from any text file.
@@ -97,7 +98,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - OpenAI for their GPT models
 - Hugging Face for their BART model and transformers library 
-=======
-# dual-ai-summarizer
-Transform any text into multiple summary formats using state-of-the-art AI models. Choose between OpenAI's GPT or Hugging Face's BART for different summarization styles. Includes concise, detailed, key points, and technical summaries. Easy to use, highly configurable, and perfect for content analysis.
->>>>>>> 388308fb07468d983899549aa6460220eb2c25a6
+
